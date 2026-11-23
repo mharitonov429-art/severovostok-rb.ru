@@ -1,15 +1,5 @@
 {
   "Организации и клиники": [
-    "/medicina/salavatskiy/sanatoriy-yangan-tau/",
-    "/medicina/duvanskiy/mesyagutovskaya-centralnaya-rayonnaya-bolnica/",
-    "/medicina/duvanskiy/vzroslaya-poliklinika/",
-    "/medicina/duvanskiy/detskaya-poliklinika-s-zhenskoy-konsultaciey/",
-    "/medicina/duvanskiy/poliklinicheskoe-podrazdelenie-v-s-duvan/",
-    "/medicina/duvanskiy/selskie-vrachebnye-ambulatorii/",
-    "/medicina/duvanskiy/feldshersko-akusherskie-punkty-mesyagutovskaya-crb/",
-    "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-klinika-zdorovya/",
-    "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-vita/",
-    "/medicina/duvanskiy/klinika-nevrologii/",
     "/medicina/duvanskiy/stomatologicheskoe-otdelenie-mesyagutovskoy-crb/",
     "/medicina/duvanskiy/centr-semeynoy-stomatologii/",
     "/medicina/duvanskiy/stomatologicheskaya-klinika-kvazar/",
@@ -59,7 +49,17 @@
     "/medicina/salavatskiy/stomatologicheskaya-klinika-master-ulybok/",
     "/medicina/salavatskiy/stomatologicheskaya-klinika-studiya-dental/",
     "/medicina/salavatskiy/mnogoprofilnaya-medicinskaya-klinika-ria-med/",
-    "/medicina/salavatskiy/medicinskaya-laboratoriya-medis/"
+    "/medicina/salavatskiy/medicinskaya-laboratoriya-medis/",
+    "/medicina/salavatskiy/sanatoriy-yangan-tau/",
+    "/medicina/duvanskiy/mesyagutovskaya-centralnaya-rayonnaya-bolnica/",
+    "/medicina/duvanskiy/vzroslaya-poliklinika/",
+    "/medicina/duvanskiy/detskaya-poliklinika-s-zhenskoy-konsultaciey/",
+    "/medicina/duvanskiy/poliklinicheskoe-podrazdelenie-v-s-duvan/",
+    "/medicina/duvanskiy/selskie-vrachebnye-ambulatorii/",
+    "/medicina/duvanskiy/feldshersko-akusherskie-punkty-mesyagutovskaya-crb/",
+    "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-klinika-zdorovya/",
+    "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-vita/",
+    "/medicina/duvanskiy/klinika-nevrologii/"
   ],
   "Списки и сравнения": [
     "/medicina/salavatskiy/",
