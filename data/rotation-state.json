@@ -1,15 +1,5 @@
 {
   "Организации и клиники": [
-    "/medicina/duvanskiy/stomatologicheskoe-otdelenie-mesyagutovskoy-crb/",
-    "/medicina/duvanskiy/centr-semeynoy-stomatologii/",
-    "/medicina/duvanskiy/stomatologicheskaya-klinika-kvazar/",
-    "/medicina/duvanskiy/stomatologiya-zhemchug/",
-    "/medicina/duvanskiy/stomatologiya-akula/",
-    "/medicina/duvanskiy/ooo-stomatologiya/",
-    "/medicina/duvanskiy/laboratornaya-diagnostika/",
-    "/medicina/mechetlinskiy/bolsheustikinskaya-centralnaya-rayonnaya-bolnica/",
-    "/medicina/mechetlinskiy/poliklinika-bolsheustikinskoy-crb/",
-    "/medicina/mechetlinskiy/alegazovskaya-selskaya-vrachebnaya-ambulatoriya/",
     "/medicina/mechetlinskiy/duvan-mechetlinskaya-selskaya-vrachebnaya-ambulatoriya/",
     "/medicina/mechetlinskiy/feldshersko-akusherskie-punkty-bolsheustikinskaya-crb/",
     "/medicina/mechetlinskiy/stomatologicheskoe-otdelenie-bolsheustikinskoy-crb/",
@@ -59,7 +49,17 @@
     "/medicina/duvanskiy/feldshersko-akusherskie-punkty-mesyagutovskaya-crb/",
     "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-klinika-zdorovya/",
     "/medicina/duvanskiy/mnogoprofilnyy-medicinskiy-centr-vita/",
-    "/medicina/duvanskiy/klinika-nevrologii/"
+    "/medicina/duvanskiy/klinika-nevrologii/",
+    "/medicina/duvanskiy/stomatologicheskoe-otdelenie-mesyagutovskoy-crb/",
+    "/medicina/duvanskiy/centr-semeynoy-stomatologii/",
+    "/medicina/duvanskiy/stomatologicheskaya-klinika-kvazar/",
+    "/medicina/duvanskiy/stomatologiya-zhemchug/",
+    "/medicina/duvanskiy/stomatologiya-akula/",
+    "/medicina/duvanskiy/ooo-stomatologiya/",
+    "/medicina/duvanskiy/laboratornaya-diagnostika/",
+    "/medicina/mechetlinskiy/bolsheustikinskaya-centralnaya-rayonnaya-bolnica/",
+    "/medicina/mechetlinskiy/poliklinika-bolsheustikinskoy-crb/",
+    "/medicina/mechetlinskiy/alegazovskaya-selskaya-vrachebnaya-ambulatoriya/"
   ],
   "Списки и сравнения": [
     "/medicina/salavatskiy/",
