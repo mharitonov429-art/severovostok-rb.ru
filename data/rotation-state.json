@@ -1,15 +1,5 @@
 {
   "Организации и клиники": [
-    "/medicina/mechetlinskiy/duvan-mechetlinskaya-selskaya-vrachebnaya-ambulatoriya/",
-    "/medicina/mechetlinskiy/feldshersko-akusherskie-punkty-bolsheustikinskaya-crb/",
-    "/medicina/mechetlinskiy/stomatologicheskoe-otdelenie-bolsheustikinskoy-crb/",
-    "/medicina/mechetlinskiy/stomatologicheskaya-klinika-na-ul-lenina/",
-    "/medicina/mechetlinskiy/klinika-tochnotest/",
-    "/medicina/mechetlinskiy/diagnosticheskiy-centr-kuray/",
-    "/medicina/mechetlinskiy/kliniko-diagnosticheskaya-laboratoriya-bolsheustikinskoy-crb/",
-    "/medicina/belokatayskiy/belokatayskaya-centralnaya-rayonnaya-bolnica/",
-    "/medicina/belokatayskiy/poliklinika-belokatayskoy-crb/",
-    "/medicina/belokatayskiy/belyankovskaya-vrachebnaya-ambulatoriya/",
     "/medicina/belokatayskiy/karlyhanovskaya-vrachebnaya-ambulatoriya/",
     "/medicina/belokatayskiy/urgalinskaya-vrachebnaya-ambulatoriya/",
     "/medicina/belokatayskiy/feldshersko-akusherskie-punkty-belokatayskaya-crb/",
@@ -59,7 +49,17 @@
     "/medicina/duvanskiy/laboratornaya-diagnostika/",
     "/medicina/mechetlinskiy/bolsheustikinskaya-centralnaya-rayonnaya-bolnica/",
     "/medicina/mechetlinskiy/poliklinika-bolsheustikinskoy-crb/",
-    "/medicina/mechetlinskiy/alegazovskaya-selskaya-vrachebnaya-ambulatoriya/"
+    "/medicina/mechetlinskiy/alegazovskaya-selskaya-vrachebnaya-ambulatoriya/",
+    "/medicina/mechetlinskiy/duvan-mechetlinskaya-selskaya-vrachebnaya-ambulatoriya/",
+    "/medicina/mechetlinskiy/feldshersko-akusherskie-punkty-bolsheustikinskaya-crb/",
+    "/medicina/mechetlinskiy/stomatologicheskoe-otdelenie-bolsheustikinskoy-crb/",
+    "/medicina/mechetlinskiy/stomatologicheskaya-klinika-na-ul-lenina/",
+    "/medicina/mechetlinskiy/klinika-tochnotest/",
+    "/medicina/mechetlinskiy/diagnosticheskiy-centr-kuray/",
+    "/medicina/mechetlinskiy/kliniko-diagnosticheskaya-laboratoriya-bolsheustikinskoy-crb/",
+    "/medicina/belokatayskiy/belokatayskaya-centralnaya-rayonnaya-bolnica/",
+    "/medicina/belokatayskiy/poliklinika-belokatayskoy-crb/",
+    "/medicina/belokatayskiy/belyankovskaya-vrachebnaya-ambulatoriya/"
   ],
   "Списки и сравнения": [
     "/medicina/salavatskiy/",
