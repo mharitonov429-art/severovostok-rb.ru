@@ -1,15 +1,5 @@
 {
   "Организации и клиники": [
-    "/medicina/kiginskiy/detskaya-poliklinika-kiginskaya-crb/",
-    "/medicina/kiginskiy/nizhnekiginskaya-vrachebnaya-ambulatoriya/",
-    "/medicina/kiginskiy/leuzinskaya-vrachebnaya-ambulatoriya/",
-    "/medicina/kiginskiy/feldshersko-akusherskie-punkty-kiginskaya-crb/",
-    "/medicina/kiginskiy/stomatologicheskoe-otdelenie-kiginskaya-crb/",
-    "/medicina/kiginskiy/stomatologicheskaya-klinika-kristall/",
-    "/medicina/kiginskiy/stomatologicheskaya-klinika-palitradent/",
-    "/medicina/kiginskiy/chastnaya-stomatologiya-na-ulice-lenina/",
-    "/medicina/kiginskiy/medicinskiy-centr-kristall/",
-    "/medicina/kiginskiy/kliniko-diagnosticheskaya-laboratoriya-kiginskaya-crb/",
     "/medicina/salavatskiy/maloyazovskaya-centralnaya-rayonnaya-bolnica/",
     "/medicina/salavatskiy/arkaulovskaya-vrachebnaya-ambulatoriya/",
     "/medicina/salavatskiy/mursalimkinskaya-vrachebnaya-ambulatoriya/",
@@ -59,7 +49,17 @@
     "/medicina/belokatayskiy/medicinskiy-centr-s-novobelokatay/",
     "/medicina/belokatayskiy/kliniko-diagnosticheskaya-laboratoriya-belokatayskoy-crb/",
     "/medicina/kiginskiy/kiginskaya-centralnaya-rayonnaya-bolnica/",
-    "/medicina/kiginskiy/vzroslaya-poliklinika-kiginskaya-crb/"
+    "/medicina/kiginskiy/vzroslaya-poliklinika-kiginskaya-crb/",
+    "/medicina/kiginskiy/detskaya-poliklinika-kiginskaya-crb/",
+    "/medicina/kiginskiy/nizhnekiginskaya-vrachebnaya-ambulatoriya/",
+    "/medicina/kiginskiy/leuzinskaya-vrachebnaya-ambulatoriya/",
+    "/medicina/kiginskiy/feldshersko-akusherskie-punkty-kiginskaya-crb/",
+    "/medicina/kiginskiy/stomatologicheskoe-otdelenie-kiginskaya-crb/",
+    "/medicina/kiginskiy/stomatologicheskaya-klinika-kristall/",
+    "/medicina/kiginskiy/stomatologicheskaya-klinika-palitradent/",
+    "/medicina/kiginskiy/chastnaya-stomatologiya-na-ulice-lenina/",
+    "/medicina/kiginskiy/medicinskiy-centr-kristall/",
+    "/medicina/kiginskiy/kliniko-diagnosticheskaya-laboratoriya-kiginskaya-crb/"
   ],
   "Списки и сравнения": [
     "/medicina/salavatskiy/",
